@@ -9,7 +9,7 @@ for i=1:N
   y=rand(1);
   if (x^2 + y^2 <1)
     C=C+1;
-  end if
+  endif
 end
 
 pi_approx = 4*(C/S)
