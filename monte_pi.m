@@ -1,4 +1,4 @@
-N=10000;
+N=input('enter the maximum iteration number');
 
 C=0;
 S=0;
